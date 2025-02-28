@@ -1,0 +1,25 @@
+Patient_ID,Age,Gender,Country,Ethnicity,Family_History,Radiation_Exposure,Iodine_Deficiency,Smoking,Obesity,Diabetes,TSH_Level,T3_Level,T4_Level,Nodule_Size,Thyroid_Cancer_Risk,Diagnosis
+1,66,Male,Russia,Caucasian,No,Yes,No,No,No,No,9.37,1.67,6.16,1.08,Low,Benign
+2,29,Male,Germany,Hispanic,No,Yes,No,No,No,No,1.83,1.73,10.54,4.05,Low,Benign
+3,86,Male,Nigeria,Caucasian,No,No,No,No,No,No,6.26,2.59,10.57,4.61,Low,Benign
+4,75,Female,India,Asian,No,No,No,No,No,No,4.1,2.62,11.04,2.46,Medium,Benign
+5,35,Female,Germany,African,Yes,Yes,No,No,No,No,9.1,2.11,10.71,2.11,High,Benign
+6,89,Male,UK,African,No,No,No,Yes,Yes,No,4,0.98,5.52,0.02,Medium,Benign
+7,89,Female,South Korea,Asian,Yes,Yes,No,No,Yes,No,4.7,0.62,11.73,0.01,High,Malignant
+8,38,Female,India,African,No,No,No,No,No,No,5.54,3.49,9.47,4.3,Medium,Benign
+9,17,Female,Russia,African,No,Yes,No,No,No,Yes,2.3,2.6,11.89,0.81,High,Malignant
+10,36,Male,Germany,Asian,No,No,No,No,Yes,No,1.34,0.56,4.51,1.44,Low,Benign
+11,67,Male,Nigeria,African,No,Yes,No,No,No,No,9.65,1.82,8.17,0.35,High,Malignant
+12,16,Female,Nigeria,Asian,No,No,No,Yes,No,No,0.53,1.13,9.56,3.87,Medium,Benign
+13,44,Male,South Korea,Asian,Yes,No,No,No,No,Yes,6.77,1.37,6.13,4.15,High,Malignant
+14,52,Male,Brazil,Asian,No,No,No,No,No,No,4.91,0.95,6,0.38,Low,Benign
+15,16,Female,China,Asian,No,No,No,No,No,No,6.84,0.62,6.8,1.68,Medium,Benign
+16,78,Female,Nigeria,Caucasian,Yes,No,Yes,Yes,No,No,7.32,1.9,11.82,2.86,Low,Benign
+17,74,Female,India,African,Yes,No,No,No,No,No,9.6,2.86,11.5,0.25,Low,Benign
+18,35,Male,Japan,Hispanic,No,No,No,No,No,No,3.59,1.83,4.95,4.93,Medium,Benign
+19,47,Female,USA,Caucasian,No,No,No,No,No,Yes,6.43,3.39,5.66,1.63,Medium,Benign
+20,72,Female,Japan,Caucasian,No,No,No,No,No,No,5.96,1.26,7.89,2.27,Low,Benign
+21,36,Male,Russia,Hispanic,No,No,Yes,No,Yes,No,4.17,2.92,10.24,2.41,Low,Benign
+22,63,Female,Nigeria,Asian,No,No,No,No,Yes,Yes,6.97,3.48,7.67,0.46,Low,Malignant
+23,73,Male,India,Caucasian,No,Yes,No,No,Yes,No,3.18,3.14,9.7,2.27,Low,Malignant
+24,56,Male,Nigeria,Caucasian,No,No,No,No,No,Yes,0.14,0.9,7.93,4.79,Low,Benign
